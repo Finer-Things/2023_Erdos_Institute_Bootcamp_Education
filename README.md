@@ -8,7 +8,20 @@ Using school-level features, can we accurately predict school-level academic suc
 In addition to informing parents, this information is critical to informing state and local leaders who attempt to improve public schools through policy creation and implementation.
 
 # Data and Cleaning
-We downloaded data from [NY State Data](https://data.nysed.gov/downloads.php).
+We downloaded our data from [NY State Data](https://data.nysed.gov/downloads.php). This database comes in Microsoft Access Format and has XX different datasets. After exploring different spreadsheets, we decided to work with the following five files: 
+
+* The file XX contains
+* The file XX contains
+* The file XX contains
+* The file XX contains
+* The file XX contains
+
+# Exploratory Data Analysis
+See ``ExploratoryDataAnalysis.ipynb`` for some Jupyter notebooks examining the data. We plotted scatter plots for our features, which are all continuous variables.
+
+# Modeling
+Using these data, we developed linear and non-linear models. See
+
 
 
  
