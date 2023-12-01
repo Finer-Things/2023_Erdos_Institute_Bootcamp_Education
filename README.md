@@ -8,7 +8,7 @@ Using school-level features, can we accurately predict school-level academic suc
 In addition to informing parents, this information is critical to informing state and local leaders who attempt to improve public schools through policy creation and implementation.
 
 # Data and Cleaning
-We downloaded our data from [NY State Data](https://data.nysed.gov/downloads.php). This database comes in Microsoft Access Format and has seventeen different datasets. After exploring different spreadsheets, we decided to work with the following eight files: 
+We downloaded our data from [NY State Data](https://data.nysed.gov/downloads.php). This database comes in Microsoft Access Format and has over twenty different datasets. After exploring different spreadsheets, we decided to work with the following eight files: 
 
 * The ``Expenditures Per Pupil.xlsx`` data consists of per pupil yearly spending for each school.
 * The ``Inexperienced Teachers and Principals.xlsx`` data consists of the percentage of teachers teaching with less than four years of experience. 
