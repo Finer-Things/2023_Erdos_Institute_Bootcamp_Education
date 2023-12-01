@@ -20,7 +20,7 @@ We downloaded our data from [NY State Data](https://data.nysed.gov/downloads.php
 See ``ExploratoryDataAnalysis.ipynb`` for some Jupyter notebooks examining the data. We plotted scatter plots for our features, which are all continuous variables.
 
 # Modeling
-Using these data, we developed linear and non-linear models. See
+Using these data, we developed linear and non-linear models. See ```` for more information and corresponding notebooks of our models and model comparison.
 
 
 
