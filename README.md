@@ -19,7 +19,7 @@ We downloaded our data from [NY State Data](https://data.nysed.gov/downloads.php
 * The ``ACC HS Core and Weighted Performance.xlsx`` consists of a composite score determined from secondary English language arts, mathematics, science, and social studies Regents exams scores.
 
 # Exploratory Data Analysis
-See ``ExploratoryDataAnalysis.ipynb`` in the ``./EDA`` folder for some Jupyter notebooks examining the data. We plotted scatter plots for our features, which are all continuous variables.
+See ``data_visualizations.ipynb`` and ``Exploring_data`` in the ``./EDA`` folder for some Jupyter notebooks examining the data. We plotted scatter plots for our features, which are all continuous variables.
 
 # Modeling
 Using these data, we developed linear and non-linear models. See ``./Modelling`` for more information and corresponding notebooks of our models and model comparison.
